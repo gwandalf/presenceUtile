@@ -1,0 +1,2 @@
+Télécharger Papyrus et faire les graphes
+Après cela lire la première partie du cours django pour commencer le projet

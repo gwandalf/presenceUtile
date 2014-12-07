@@ -1,0 +1,4 @@
+Afficher un tableau de quêtes.
+Création d'une quête au clic sur le tableau.
+Édition d'une quête au double-clic sur celle-ci.
+Destruction d'une quête au clic sur la croix.
