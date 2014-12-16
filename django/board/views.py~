@@ -8,4 +8,4 @@ def home(request):
 	""" Main view : welcoming message """
 	text = """ <h1> Tableau des missions !</h1>
               <p>Consultez les missions affichées.</p> """
-	return HttpResponse(text)
+	return HttpResponse()
