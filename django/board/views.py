@@ -6,4 +6,4 @@ from datetime import datetime
 
 def home(request):
 	""" Main view : welcoming message """
-	return render(request, 'board/date.html', {'date' : datetime.now()})
+	return render(request, 'board/board.html', {})
