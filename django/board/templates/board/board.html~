@@ -1,2 +1,3 @@
 {% load static %}
-<img src="{% static 'board/board.jpg' %}" alt="This is my board" />
+<body style="background-image:{% static 'board/Corkboard.jpg' %}; background-repeat:repeat" alt="This is my board" />
+
